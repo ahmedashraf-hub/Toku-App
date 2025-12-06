@@ -63,6 +63,7 @@ flutter:
     - assets/images/colors/
     - assets/images/family_members/
     - assets/images/numbers/
+    - assets/images/screenshoots/
     - assets/sounds/numbers/
     - assets/sounds/phrases/
     - assets/sounds/family_members/
